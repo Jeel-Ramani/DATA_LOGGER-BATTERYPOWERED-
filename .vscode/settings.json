@@ -1,0 +1,24 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\info\\esp\\v5.4\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\info\\.espressif",
+    "idf.pythonInstallPath": "C:\\Users\\info\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.portWin": "COM36",
+    "idf.flashType": "UART",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32s2"
+    },
+    "idf.openOcdConfigs": [
+        "board/esp32s2-kaluga-1.cfg"
+    ],
+    "files.associations": {
+        "msc_host_vfs.h": "c",
+        "esp_log.h": "c",
+        "i2c.h": "c",
+        "time.h": "c",
+        "freertos.h": "c",
+        "esp_mac.h": "c",
+        "cerrno": "c",
+        "sdmmc_cmd.h": "c"
+    }
+}

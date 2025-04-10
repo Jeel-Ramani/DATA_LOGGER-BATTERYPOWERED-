@@ -1,0 +1,7 @@
+dependencies:
+  idf: '>=4.4'
+  usb_host_msc: ^1.1.1
+  sd_card:
+    path: ${IDF_PATH}/examples/storage/sd_card/sdmmc/components/sd_card
+  espressif/led_strip: '*'
+
